@@ -1,0 +1,15 @@
+[+sections]
+{.scrollama1}
+img1: https://ps-apps-assets.s3.amazonaws.com/screen-test-2021/bethany/Bethany_7637.jpg
+img2: https://ps-apps-assets.s3.amazonaws.com/screen-test-2021/Briayelle/bri-02.png
+img3: 
+img4:
+alt1: 
+alt2:
+alt3:
+text1: “I have watched my happy, engaged child do a 180.” <br><em><span>-Bethany Hemingway Klobuchar, Keystone Oaks School District parent</em></span>
+text2: “It's like they don't even care about us learning to the point where it's just like do it and get it done and over with.” <br><em><span>-Briayelle Gaines, 11th-grade student in West Mifflin Area School District</em></span>
+text3: 
+text4: 
+{}
+[]

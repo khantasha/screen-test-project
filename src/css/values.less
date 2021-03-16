@@ -1,0 +1,44 @@
+/*
+ * Media queries
+ */
+@mobile: ~"(max-width: 1000px)";
+@mobile-small: ~"(max-width: 400px)";
+@mobile-above: ~"(min-width: 911px)";
+// @tablet: ~"(max-width: 768px)";
+
+/*
+ * Fonts
+ */
+@mallory: 'Mallory', Helvetica, Arial, sans-serif;
+@mono: 'PT Mono', monospace;
+@garamond: 'EB Garamond', serif;
+@crimson: 'Crimson Text', serif;
+@gotham: 'Gotham SSm', Helvetica, Arial, sans-serif;
+@sans: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+@serif: garamond-premier-pro, "Times New Roman", Times, serif;
+
+.mallory() {
+    font-family: @mallory;
+    font-weight: normal;
+    font-weight: 400;
+}
+
+.garamond() {
+  font-family: @serif;
+}
+
+/*
+ * Colors
+ */
+@brand-blue: #418cff;
+@brand-black: #010101;
+@brand-muted-blue: #A9C6FE;
+@brand-grey: #E5E8DB;
+@brand-brown: #D8CFC3;
+@brand-beige: #D8CFC3;
+
+@justice-blue: rgb(204,227,227);
+@justice-salmon: rgba(242, 188, 162);
+@justice-beige: rgba(229, 241, 241);
+@justice-beige-darker: rgb(204,227,227);
+@justice-beige-light: rgba(230, 214, 199, .6);

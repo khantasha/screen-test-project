@@ -1,0 +1,32 @@
+{
+  "s3": {
+    "stage": {
+      "bucket": "",
+      "path": ""
+    },
+    "live": {
+      "bucket": "",
+      "path": ""
+    }
+  },
+  "styles": {
+    "src/css/seed.less": "build/style.css"
+  },
+  "scripts": {
+    "src/js/main.js": "build/app.js"
+  },
+  "title": "",
+  "description": "",
+  "url": "",
+  "image": "assets/logo.png",
+  "sheets": [],
+  "docs": [
+    "1Uo4v0DPIRXlQuhPz_9QFfidol1XI3EaagcJkzEOW19I",
+    "1t40jM46WOVfIAo6IbkHvM6cuuTgkyXbLqeDdOccOL80",
+    "1VSWtPlMLLNizpLAIbOTXOMz1l0uLXOEJuavhwWnL9tM",
+    "1oyyfwF-uZm6E6aPnGvOoye3CJKL5ac_7GS1-1-1iGvQ",
+    "1qVYYDQAfh934-vEyBI9_uJiJJNxlyJDrrjeinpLqTMk"
+  ],
+  "embedded": true,
+  "production": false
+}
