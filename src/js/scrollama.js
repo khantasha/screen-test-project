@@ -59,6 +59,51 @@ if(homepage){
   // initialize the scrollama
   var scroller6 = scrollama();
 
+  // seventh scrollrama
+  var scrolly7 = d3.select('#scrolly7 ');
+  var figure7 = scrolly7.select('figure');
+  var currImg7 = figure7.select('#horse1');
+  var article7 = scrolly7.select('article');
+  var step7  = article7.selectAll('.step');
+  // initialize the scrollama
+  var scroller7 = scrollama();
+
+  // eighth scrollrama
+  var scrolly8 = d3.select('#scrolly8 ');
+  var figure8 = scrolly8.select('figure');
+  var currImg8 = figure8.select('#turtle1');
+  var article8 = scrolly8.select('article');
+  var step8  = article8.selectAll('.step');
+  // initialize the scrollama
+  var scroller8 = scrollama();
+
+  // ninth scrollrama
+  var scrolly9 = d3.select('#scrolly9 ');
+  var figure9 = scrolly9.select('figure');
+  var currImg9 = figure9.select('#cat1');
+  var article9 = scrolly9.select('article');
+  var step9  = article9.selectAll('.step');
+  // initialize the scrollama
+  var scroller9 = scrollama();
+
+  // tenth scrollrama
+  var scrolly10 = d3.select('#scrolly10 ');
+  var figure10 = scrolly10.select('figure');
+  var currImgv10 = figure10.select('#dog1');
+  var article10 = scrolly10.select('article');
+  var step10  = article10.selectAll('.step');
+  // initialize the scrollama
+  var scroller10 = scrollama();
+
+  // eleventh scrollrama
+  var scrolly11 = d3.select('#scrolly11 ');
+  var figure11 = scrolly11.select('figure');
+  var currImgv11 = figure11.select('#bug1');
+  var article11 = scrolly11.select('article');
+  var step11  = article11.selectAll('.step');
+  // initialize the scrollama
+  var scroller11 = scrollama();
+
 
   // for first scrollrama
   // generic window resize listener event
@@ -239,6 +284,151 @@ if(homepage){
   	currImg6.classed('is-visible', true);
   }
 
+  // for seventh scrollrama
+  // generic window resize listener event
+  function handleResize7 () {
+    // 1. update height of step elements
+    var stepH = Math.floor(window.innerHeight * 1);
+    step7.style('height', stepH + 'px');
+    var figureHeight = window.innerHeight / 2
+    var figureMarginTop = (window.innerHeight - figureHeight) / 2
+    figure7
+      .style('height', figureHeight + 'px')
+      .style('top', figureMarginTop + 'px');
+    // 3. tell scrollama to update new element dimensions
+    scroller7.resize();
+  }
+  // scrollama event handlers
+  function handleStepEnter7(response) {
+    //console.log(response)
+    // response = { element, direction, index }
+    // add color to current step only
+    step7.classed('is-active', function (d, i) {
+      return i === response.index;
+    })
+    // update graphic based on step
+    var increment = response.index + 1;
+    currImg7.classed('is-visible', false);
+    currImg7 = figure7.select('#horse' + increment);
+    currImg7.classed('is-visible', true);
+  }
+
+  // for eighth scrollrama
+  // generic window resize listener event
+  function handleResize8 () {
+    // 1. update height of step elements
+    var stepH = Math.floor(window.innerHeight * 1);
+    step8.style('height', stepH + 'px');
+    var figureHeight = window.innerHeight / 2
+    var figureMarginTop = (window.innerHeight - figureHeight) / 2
+    figure8
+      .style('height', figureHeight + 'px')
+      .style('top', figureMarginTop + 'px');
+    // 3. tell scrollama to update new element dimensions
+    scroller8.resize();
+  }
+  // scrollama event handlers
+  function handleStepEnter8(response) {
+    //console.log(response)
+    // response = { element, direction, index }
+    // add color to current step only
+    step8.classed('is-active', function (d, i) {
+      return i === response.index;
+    })
+    // update graphic based on step
+    var increment = response.index + 1;
+    currImg8.classed('is-visible', false);
+    currImg8 = figure8.select('#turtle' + increment);
+    currImg8.classed('is-visible', true);
+  }
+
+  // for ninth scrollrama
+  // generic window resize listener event
+  function handleResize9 () {
+    // 1. update height of step elements
+    var stepH = Math.floor(window.innerHeight * 1);
+    step9.style('height', stepH + 'px');
+    var figureHeight = window.innerHeight / 2
+    var figureMarginTop = (window.innerHeight - figureHeight) / 2
+    figure9
+      .style('height', figureHeight + 'px')
+      .style('top', figureMarginTop + 'px');
+    // 3. tell scrollama to update new element dimensions
+    scroller9.resize();
+  }
+  // scrollama event handlers
+  function handleStepEnter9(response) {
+    //console.log(response)
+    // response = { element, direction, index }
+    // add color to current step only
+    step9.classed('is-active', function (d, i) {
+      return i === response.index;
+    })
+    // update graphic based on step
+    var increment = response.index + 1;
+    currImg9.classed('is-visible', false);
+    currImg9 = figure9.select('#cat' + increment);
+    currImg9.classed('is-visible', true);
+  }
+
+  // for tenth scrollrama
+  // generic window resize listener event
+  function handleResize10 () {
+    // 1. update height of step elements
+    var stepH = Math.floor(window.innerHeight * 1);
+    step10.style('height', stepH + 'px');
+    var figureHeight = window.innerHeight / 2
+    var figureMarginTop = (window.innerHeight - figureHeight) / 2
+    figure10
+      .style('height', figureHeight + 'px')
+      .style('top', figureMarginTop + 'px');
+    // 3. tell scrollama to update new element dimensions
+    scroller10.resize();
+  }
+  // scrollama event handlers
+  function handleStepEnter10(response) {
+    //console.log(response)
+    // response = { element, direction, index }
+    // add color to current step only
+    step10.classed('is-active', function (d, i) {
+      return i === response.index;
+    })
+    // update graphic based on step
+    var increment = response.index + 1;
+    currImg10.classed('is-visible', false);
+    currImg10 = figure10.select('#dog' + increment);
+    currImg10.classed('is-visible', true);
+  }
+
+  // for eleventh scrollrama
+  // generic window resize listener event
+  function handleResize11 () {
+    // 1. update height of step elements
+    var stepH = Math.floor(window.innerHeight * 1);
+    step11.style('height', stepH + 'px');
+    var figureHeight = window.innerHeight / 2
+    var figureMarginTop = (window.innerHeight - figureHeight) / 2
+    figure11
+      .style('height', figureHeight + 'px')
+      .style('top', figureMarginTop + 'px');
+    // 3. tell scrollama to update new element dimensions
+    scroller11.resize();
+  }
+  // scrollama event handlers
+  function handleStepEnter11(response) {
+    //console.log(response)
+    // response = { element, direction, index }
+    // add color to current step only
+    step11.classed('is-active', function (d, i) {
+      return i === response.index;
+    })
+    // update graphic based on step
+    var increment = response.index + 1;
+    currImg11.classed('is-visible', false);
+    currImg11 = figure11.select('#bug' + increment);
+    currImg11.classed('is-visible', true);
+  }
+
   function init() {
 
   	setupStickyfill();
@@ -249,6 +439,11 @@ if(homepage){
     handleResize4()
     handleResize5()
     handleResize6()
+    handleResize7()
+    handleResize8()
+    handleResize9()
+    handleResize10()
+    handleResize11()
   	// 2. setup the scroller passing options
   	// 		this will also initialize trigger observations
   	// 3. bind scrollama event handlers (this can be chained like below)
@@ -294,6 +489,41 @@ if(homepage){
   		debug: false,
   	})
   		.onStepEnter(handleStepEnter6)
+
+    scroller7.setup({
+  		step: '#scrolly7 article .step',
+  		offset: 0.98,
+  		debug: false,
+  	})
+  		.onStepEnter(handleStepEnter7)
+
+    scroller8.setup({
+  		step: '#scrolly8 article .step',
+  		offset: 0.98,
+  		debug: false,
+  	})
+  		.onStepEnter(handleStepEnter8)
+
+    scroller9.setup({
+  		step: '#scrolly9 article .step',
+  		offset: 0.98,
+  		debug: false,
+  	})
+  		.onStepEnter(handleStepEnter9)
+
+    scroller10.setup({
+  		step: '#scrolly10 article .step',
+  		offset: 0.98,
+  		debug: false,
+  	})
+  		.onStepEnter(handleStepEnter10)
+
+    scroller11.setup({
+  		step: '#scrolly11 article .step',
+  		offset: 0.98,
+  		debug: false,
+  	})
+  		.onStepEnter(handleStepEnter11)
 
   }
   // kick things off
