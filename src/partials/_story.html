@@ -13,13 +13,22 @@
         <h2><%= section.value.text %></h2>
       </div>
 
-      <!-- Bug -->
-      <% }else if(section.type == "bug"){ %>
-        <a target="_blank" href="https://apps.publicsource.org/screen-test/"><img class="bug-img" alt="<%= section.value.alt %>" src="<%= section.value.img %>" /></a>
+    <!-- Bug -->
+    <% }else if(section.type == "bug"){ %>
+      <a target="_blank" href="https://apps.publicsource.org/screen-test/"><img class="bug-img" alt="<%= section.value.alt %>" src="<%= section.value.img %>" /></a>
 
+    <!-- Inline aside -->
+    <% }else if(section.type == "inline-aside"){ %>
+      <a target="_blank" href="https://apps.publicsource.org/screen-test/"><img class="img-aside" alt="<%= section.value.alt %>" src="<%= section.value.img %>" /></a>
+
+    <!-- Video -->
+    <% }else if(section.type == "video"){ %>
+    <div class='embed-container'>
+      <iframe src='<%= section.value.videolink %>' frameborder='0' allowfullscreen></iframe>
+    </div>
 
     <% }else if(section.type == "pullquote"){ %>
-      <h3 class="type-it-pullquote"><%= section.value.text %></h3>
+    <h3 class="type-it-pullquote"><%= section.value.text %></h3>
 
     <!-- Inline image -->
     <% }else if(section.type == "inline-img"){ %>
