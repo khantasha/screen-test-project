@@ -47,10 +47,19 @@
 
       <div class="inline-img">
       <img alt="<%= section.value.alt %>" src="<%= section.value.img %>" />
-      <div class="caption-inline-img">
+      <div class="caption">
         <p><%= section.value.caption %></p>
       </div>
       </div>
+
+      <!-- Inline image ortega -->
+      <% }else if(section.type == "inline-img-right"){ %>
+        <div class="inline-img-right">
+        <img alt="<%= section.value.alt %>" src="<%= section.value.img %>" />
+        <div class="caption-inline-img">
+          <p><%= section.value.caption %></p>
+        </div>
+        </div>
 
     <% }else if(section.type == "cta-box"){ %>
       <div class="cta-box">

@@ -11,18 +11,17 @@ Wolf cited Ortega’s record of focusing on equity and access issues among stude
 
 With a new presidential administration, a new school year on the horizon and a new leader, the Pennsylvania Department of Education [PDE] is the captain for hundreds of school districts searching for guidance on how to educate in a coronavirus environment. 
 
-{.inline-img}
+{.inline-img-right}
 img: https://ps-apps-assets.s3.amazonaws.com/screen-test-2021/tylisa-gifs/Ortega_lead_2+2.jpg
 alt: tylisa. C johnson on zoom interview Pennsylvania Department of Education Secretary Noe Ortega
 caption: PublicSource reporter TyLisa C. Johnson interviews Pennsylvania Department of Education Acting Secretary Noe Ortega on Zoom.
 {}
-
 PublicSource's TyLisa C. Johnson spoke with Ortega in March on topics ranging from the road ahead for Pennsylvania schools and how the department will address learning loss to district funding needs and lessons learned this year to move the department forward in an unpredictable future. 
 
 Ortega described how teachers are rethinking their roles, what students have lost without brick-and-mortar buildings, and potential strategies to fix learning loss, including the possibility of summer school. 
 
 “It's obvious that we're going to have to figure out ways to accelerate learning,” Ortega said during the wide-ranging interview. “We're going to have to figure out how to do it in nontraditional times.”
-<h3>Want to hear Ortega on something specific?<br>Listen to Ortega talk about…</h3>
+<h4>Want to hear Ortega on something specific?<br>Listen to Ortega talk about…</h4>
 
 <ul>
 <li><a href="#question1">Lessons from his predecessor</a></a></li>
@@ -42,7 +41,7 @@ Ortega described how teachers are rethinking their roles, what students have los
 
 <hr>
 
-<h3>Lessons from his predecessor</h3>
+<h4>Lessons from his predecessor</h4>
 
 {.question}
 img: https://ps-apps-assets.s3.amazonaws.com/screen-test-2021/tylisa-gifs/tylisa1.gif
@@ -55,7 +54,7 @@ videolink: https://player.vimeo.com/video/526136243
 <hr>
 <p id="question2">
 
-<h3>Disparities and achievement gaps</h3>
+<h4>Disparities and achievement gaps</h4>
 
 {.question}
 img: https://ps-apps-assets.s3.amazonaws.com/screen-test-2021/tylisa-gifs/tylisa-4.gif
@@ -69,7 +68,7 @@ videolink: https://player.vimeo.com/video/526187903
 <hr>
 <p id="question3">
 
-<h3>Ways to remediate learning loss</h3>
+<h4>Ways to remediate learning loss</h4>
 
 {.question}
 img: https://ps-apps-assets.s3.amazonaws.com/screen-test-2021/tylisa-gifs/tylisa5.gif
@@ -82,7 +81,7 @@ videolink: https://player.vimeo.com/video/526141715
 <hr>
 <p id="question4">
 
-<h3>Testing in a COVID environment</h3>
+<h4>Testing in a COVID environment</h4>
 
 {.question}
 img: https://ps-apps-assets.s3.amazonaws.com/screen-test-2021/tylisa-gifs/tylisa1.gif
@@ -96,7 +95,7 @@ videolink: https://player.vimeo.com/video/526192967
 <hr>
 <p id="question5">
 
-<h3>What Pennsylvania schools have gotten right this year</h3>
+<h4>What Pennsylvania schools have gotten right this year</h4>
 
 {.question}
 img: https://ps-apps-assets.s3.amazonaws.com/screen-test-2021/tylisa-gifs/tylisa-4.gif
@@ -109,7 +108,7 @@ videolink: https://player.vimeo.com/video/526240404
 <hr>
 <p id="question6">
 
-<h3>What he hopes to accomplish</h3>
+<h4>What he hopes to accomplish</h4>
 
 {.question}
 img: https://ps-apps-assets.s3.amazonaws.com/screen-test-2021/tylisa-gifs/tylisa5.gif
@@ -122,7 +121,7 @@ videolink: https://player.vimeo.com/video/526250275
 <hr>
 <p id="question7">
 
-<h3>The funding needs and priorities for the PDE </h3>
+<h4>The funding needs and priorities for the PDE </h4>
 
 {.question}
 img: https://ps-apps-assets.s3.amazonaws.com/screen-test-2021/tylisa-gifs/tylisa1.gif
@@ -144,7 +143,7 @@ videolink: https://player.vimeo.com/video/526254434
 <hr>
 <p id="question8">
 
-<h3>Major impacts of the shift to virtual learning</h3>
+<h4>Major impacts of the shift to virtual learning</h4>
 
 {.question}
 img: https://ps-apps-assets.s3.amazonaws.com/screen-test-2021/tylisa-gifs/tylisa5.gif
@@ -157,7 +156,7 @@ videolink: https://player.vimeo.com/video/526258467
 <hr>
 <p id="question9">
 
-<h3>How has the pandemic shifted the goals</h3>
+<h4>How has the pandemic shifted the goals</h4>
 
 {.question}
 img: https://ps-apps-assets.s3.amazonaws.com/screen-test-2021/tylisa-gifs/tylisa1.gif
@@ -170,7 +169,7 @@ videolink: https://player.vimeo.com/video/526267019
 <hr>
 <p id="question10">
 
-<h3>How this upheaval may change public education long term</h3>
+<h4>How this upheaval may change public education long term</h4>
 
 {.question}
 img: https://ps-apps-assets.s3.amazonaws.com/screen-test-2021/tylisa-gifs/tylisa1.gif
@@ -183,7 +182,7 @@ videolink: https://player.vimeo.com/video/526269099
 <hr>
 <p id="question11">
 
-<h3>Teacher diversity as a strategy to mend learning loss</h3>
+<h4>Teacher diversity as a strategy to mend learning loss</h4>
 
 {.question}
 img: https://ps-apps-assets.s3.amazonaws.com/screen-test-2021/tylisa-gifs/tylisa-4.gif
@@ -197,7 +196,7 @@ videolink: https://player.vimeo.com/video/526273369
 <hr>
 <p id="question12">
 
-<h3>Silver linings from the first year of COVID learning</h3>
+<h4>Silver linings from the first year of COVID learning</h4>
 
 {.question}
 img: https://ps-apps-assets.s3.amazonaws.com/screen-test-2021/tylisa-gifs/tylisa5.gif
