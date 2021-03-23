@@ -156,7 +156,11 @@ p {
 
 b, strong {
   font-family: mallory, sans-serif;
-  font-size: 21px;
+  font-size: 20.5px;
+  color: @brand-black;
+  @media @mobile {
+    font-size: 20px;
+  }
 }
 
 
@@ -345,8 +349,8 @@ ol ol,
 ol ul {
   margin: 1.5rem 0 1.5rem 3rem;
   font-size: 90%; }
-li {
-  margin-bottom: 1rem; }
+// li {
+//   // margin-bottom: 1rem; }
 
 
 /* Code
