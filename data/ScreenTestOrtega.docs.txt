@@ -3,72 +3,208 @@
 img: https://www.publicsource.org/wp-content/uploads/2021/03/ezgif-6-5676efc50f63.gif
 alt: screen test logo
 {}
-This year, schools across the state pivoted like never before. They shifted to virtual learning, navigated and braved learning in a COVID environment, and now, a year later, are left to solve the learning chasms exacerbated by the pandemic – all in the midst of a transition in leadership at the Pennsylvania Department of Education.
+This year, schools across the state pivoted like never before. They navigated and braved virtual learning, and now, a year later, are left to solve the learning chasms exacerbated by the pandemic – all in the midst of a transition in leadership at the Pennsylvania Department of Education.
 
-Acting Secretary <a href="https://www.education.pa.gov/Pages/Secretary-Biography.aspx" target="_blank">Noe Ortega</a> took reins of the Pennsylvania Department of Education in October 2020, in the thick of the pandemic when the country was seeing unprecedented levels of COVID cases and the first school year of virtual learning was underway. <a href="https://www.media.pa.gov/pages/Education-details.aspx?newsid=910#:~:text=Ortega%20will%20replace%20Pedro%20Rivera,all%20students%2C%E2%80%9D%20said%20Gov." target="_blank">Ortega was appointed by Gov. Tom Wolf</a> after former secretary Pedro Rivera departed his post to become president of Thaddeus Stevens College of Technology on Oct. 1. Leading up to his appointment, Ortega was the department’s deputy secretary and commissioner for the Office of Postsecondary and Higher Education.
+Acting Secretary <a href="https://www.education.pa.gov/Pages/Secretary-Biography.aspx" target="_blank">Noe Ortega</a> took the reins of the department in October 2020 as the country was seeing unprecedented levels of COVID cases and the school year was underway. <a href="https://www.media.pa.gov/pages/Education-details.aspx?newsid=910#:~:text=Ortega%20will%20replace%20Pedro%20Rivera,all%20students%2C%E2%80%9D%20said%20Gov." target="_blank">Gov. Tom Wolf appointed Ortega</a> after former secretary Pedro Rivera departed his post to become president of Thaddeus Stevens College of Technology on Oct. 1. Leading up to his appointment, Ortega was the department’s deputy secretary and commissioner for the Office of Postsecondary and Higher Education.
 
-Wolf said at the time that Ortega “has a proven record of advocating for equity and access for all students,” citing Ortega’s spearheading the state’s efforts to diversify its educator pipeline and to make classrooms more diverse; an ongoing disparity in local Pittsburgh schools.
+Wolf cited Ortega’s record of focusing on equity and access issues among students and noted that he spearheaded the state’s efforts to diversify its educators. Across Allegheny County’s 43 school districts and 22 charter schools, 4.5% of teachers are people of color, despite students of color making up 32% of all students.
 
-With a new presidential administration, a new school year on the horizon, and a new leader, the Pennsylvania Department of Education is the captain for hundreds of school districts searching for guidance on how to educate in a coronavirus environment. 
+With a new presidential administration, a new school year on the horizon and a new leader, the Pennsylvania Department of Education [PDE] is the captain for hundreds of school districts searching for guidance on how to educate in a coronavirus environment. 
 
-PublicSource spoke with Ortega in March on topics ranging from the road ahead for Pennsylvania schools and how the department will address learning loss and exacerbated inequities to district funding needs and lessons he learned from this year to move the department forward in an unpredictable future. 
-
-**Want to hear Ortega on something specific?** 
-**Listen to Ortega talk about…**
-<ul>
-<li>Lessons from his predecessor he’s used to become leader of PDE amid the pandemic</li>
-<li>How the PDE will address exacerbated disparities, achievement gaps due to COVID</li>
-<li>Ways the department plans to remediate learning loss</li>
-<li>His perspective on testing in a COVID environment</li>
-<li>What Pennsylvania schools have gotten right this year</li>
-<li>What he hopes to accomplish in his two years as acting secretary</li>
-<li>How the PDE’s priorities align with the Biden administration (same Q as above…)</li>
-<li>The funding needs, priorities and challenges for the PDE to provide quality education</li>
-<li>Will the latest round of COVID funding be enough for PA schools to recover?</li>
-<li>Major impacts of the shift to virtual learning</li>
-<li>How this moment may change how public education is provided longterm</li>
-<li>Teacher diversity as a strategy to mend learning loss</li>
-<li>Silver linings from the first year of COVID learning</li>
-</ul>
-
-{.inline-aside}
-img: https://www.publicsource.org/wp-content/uploads/2021/03/ezgif-6-5676efc50f63.gif
-alt: screen test logo
+{.inline-img}
+img: https://ps-apps-assets.s3.amazonaws.com/screen-test-2021/tylisa-gifs/Ortega_lead_2+2.jpg
+alt: tylisa. C johnson on zoom interview Pennsylvania Department of Education Secretary Noe Ortega
+caption: PublicSource reporter TyLisa C. Johnson interviews Pennsylvania Department of Education Acting Secretary Noe Ortega on Zoom.
 {}
 
-**You took over the department in October and the pandemic was very much in full swing. Covid cases were still spiking and the first year with virtual learning was underway. So I'm wondering, you know, what was it like for you to take the mantle of this large organization amid a global pandemic? And are there lessons from your predecessor that you've brought with you into this role and kind of into this super unprecedented year?**
+PublicSource's TyLisa C. Johnson spoke with Ortega in March on topics ranging from the road ahead for Pennsylvania schools and how the department will address learning loss to district funding needs and lessons learned this year to move the department forward in an unpredictable future. 
 
+Ortega described how teachers are rethinking their roles, what students have lost without brick-and-mortar buildings, and potential strategies to fix learning loss, including the possibility of summer school. 
+
+“It's obvious that we're going to have to figure out ways to accelerate learning,” Ortega said during the wide-ranging interview. “We're going to have to figure out how to do it in nontraditional times.”
+<h3>Want to hear Ortega on something specific?<br>Listen to Ortega talk about…</h3>
+
+<ul>
+<li><a href="#question1">Lessons from his predecessor</a></a></li>
+<li><a href="#question2">How the PDE will address exacerbated disparities and achievement gaps</a></a></li>
+<li><a href="#question3">Ways the department plans to remediate learning loss</a></a></li>
+<li><a href="#question4">His perspective on testing in a COVID environment</a></a></li>
+<li><a href="#question5">What Pennsylvania schools have gotten right this year</a></a></li>
+<li><a href="#question6">What he hopes to accomplish in his two years as acting secretary</a></li>
+<li><a href="#question6">How the PDE’s priorities align with the Biden administration</a></li>
+<li><a href="#question7">The funding needs and priorities for the PDE</a></li>
+<li><a href="#question8">Major impacts of the shift to virtual learning</a></li>
+<li><a href="#question9">How has the pandemic shifted goals</a></li>
+<li><a href="#question10">How this upheaval may change public education long term</a></li>
+<li><a href="#question11">Teacher diversity as a strategy to mend learning loss</a></li>
+<li id="question1"><a href="#question12">Silver linings from the first year of COVID learning</a></li>
+</ul>
+
+<hr>
+
+<h3>Lessons from his predecessor</h3>
+
+{.question}
+img: https://ps-apps-assets.s3.amazonaws.com/screen-test-2021/tylisa-gifs/tylisa1.gif
+alt: gif of tylisa c. johnson
+text: <b>QUESTION:</b> You took over the department in October, and the pandemic was very much in full swing. COVID cases were still spiking and the first year with virtual learning was underway. What was it like for you to take the mantle of this large organization amid a global pandemic? And are there lessons from your predecessor that you've brought with you into this role and kind of into this super unprecedented year?
+{}
+{.video}
+videolink: https://player.vimeo.com/video/526136243
+{}
+<hr>
+<p id="question2">
+
+<h3>Disparities and achievement gaps</h3>
+
+{.question}
+img: https://ps-apps-assets.s3.amazonaws.com/screen-test-2021/tylisa-gifs/tylisa-4.gif
+alt: gif of tylisa c. johnson
+text: <b>QUESTION:</b> How does the department plan to address the exacerbated disparities due to inequitable remote learning environments for students, and does the department have a plan to address these sort of persistent achievement gaps?
+additionaltext: Students, especially those of color, have been impacted by the shift to virtual learning; data from the fall <a href="https://www.mckinsey.com/industries/public-and-social-sector/our-insights/covid-19-and-learning-loss-disparities-grow-and-students-need-help" target="_blank">shows students falling behind</a>.
+{}
 {.video}
 videolink: https://player.vimeo.com/video/526187903
 {}
+<hr>
+<p id="question3">
 
-**How does the department plan to address the exacerbated disparities due to inequitable remote learning environments for students, and does the department have a plan to address these sort of persisting achievement gaps?** 
+<h3>Ways to remediate learning loss</h3>
 
-Students, especially those of color, have been impacted by the shift to virtual learning and data from the fall shows students falling behind in the new environment.
- 
-[VIDEO CLIP]
+{.question}
+img: https://ps-apps-assets.s3.amazonaws.com/screen-test-2021/tylisa-gifs/tylisa5.gif
+alt: gif of tylisa c. johnson
+text: <b>QUESTION:</b> You just got into so much. I think you started to talk a lot about specific ways that the department plans to address learning loss and remediate learning loss in the immediate future. Can you expand on that a little more, if there are specific plans you have around addressing learning loss?
+{}
+{.video}
+videolink: https://player.vimeo.com/video/526141715
+{}
+<hr>
+<p id="question4">
 
-**You just got into so much. I think you started to talk a lot about specific ways that the department plans to address learning loss and remediate learning loss in the immediate future. Can you expand on that a little more, if there are specific plans you have around addressing learning loss?**
+<h3>Testing in a COVID environment</h3>
 
-[VIDEO CLIP]
+{.question}
+img: https://ps-apps-assets.s3.amazonaws.com/screen-test-2021/tylisa-gifs/tylisa1.gif
+alt: gif of tylisa c. johnson
+text: <b>QUESTION:</b> When it comes to assessments, you’ve indicated that you want districts and charters to delay giving students exams until September. You basically said that it would be impossible within the next six weeks to balance the health concerns while safeguarding the validity of assessment results. Can you talk more about your perspective on testing in this COVID environment and what you anticipate the future of testing will look like?
+additionaltext: Ortega announced in late February that the department <a href="https://www.media.pa.gov/pages/Education-details.aspx?newsid=1052" target="_blank">will allow public schools to postpone federally required testing</a> until the fall. While some states have held <a href="https://www.courierpostonline.com/story/news/local/south-jersey/2021/02/12/safe-take-sats-school-test-sites-prep-spring-exam/6710596002/" target="_blank">assessments for students</a>, it looks completely different from years prior. Students were screened for symptoms at the door, masked through the entire test and seated 6 feet apart.
+{}
+{.video}
+videolink: https://player.vimeo.com/video/526192967
+{}
+<hr>
+<p id="question5">
 
-**When it comes to assessments, you’ve indicated that you want districts and charters to delay giving students exams until September. You basically said that it would be impossible within the next six weeks to balance the health concerns while safeguarding the validity of assessment results. Can you talk more about your perspective on testing in this covid environment and what you anticipate the future of testing will look like given this new environment?**
+<h3>What Pennsylvania schools have gotten right this year</h3>
 
+{.question}
+img: https://ps-apps-assets.s3.amazonaws.com/screen-test-2021/tylisa-gifs/tylisa-4.gif
+alt: gif of tylisa c. johnson
+text: <b>QUESTION:</b> Schools have been operating amid this pandemic, and it uprooted normalcy for many Americans. I'm wondering what you think schools across the state have gotten right this year?
+{}
+{.video}
+videolink: https://player.vimeo.com/video/526240404
+{}
+<hr>
+<p id="question6">
 
+<h3>What he hopes to accomplish</h3>
 
-Ortega announced in late February that the department will allow public schools to postpone federally-required testing until the fall. While some states have held assessments for students, it looks completely different from years prior. 
+{.question}
+img: https://ps-apps-assets.s3.amazonaws.com/screen-test-2021/tylisa-gifs/tylisa5.gif
+alt: gif of tylisa c. johnson
+text: <b>QUESTION:</b> You're not new to PDE. You've been there, but you're still relatively new to your position. So I'm wondering what you hope to accomplish in your two years and how your priorities and the department's priorities align with the Biden administration, or do they?
+{}
+{.video}
+videolink: https://player.vimeo.com/video/526250275
+{}
+<hr>
+<p id="question7">
 
-[VIDEO CLIP]
+<h3>The funding needs and priorities for the PDE </h3>
 
-**Schools have been operating amid this pandemic and it uprooted normalcy for many Americans. I'm wondering what you think schools across the state have  gotten right this year?**  
+{.question}
+img: https://ps-apps-assets.s3.amazonaws.com/screen-test-2021/tylisa-gifs/tylisa1.gif
+alt: gif of tylisa c. johnson
+text: <b>QUESTION:</b> When it comes to funding, what are the department funding priorities and needs and challenges in order for the department to provide quality public education statewide?
+additionaltext: The Biden administration’s American Rescue Plan <a href="https://www.ed.gov/news/press-releases/us-department-education-continues-aggressive-plan-safely-reopen-schools#:~:text=The%20Department%20of%20Education%20will,and%20emotional%20needs%20of%20students." target="blank">will send $130 billion</a> of additional dollars to education institutions to address the impacts of the COVID pandemic, including learning loss. Pennsylvania educational agencies <a href="https://www.ed.gov/news/press-releases/department-education-announces-american-rescue-plan-funds-all-50-states-puerto-rico-and-district-columbia-help-schools-reopen" target="_blank">will receive close to $5 million</a> under the Biden administration’s American Rescue Plan, through dollars from the Elementary and Secondary School Emergency Relief Fund, which doesn’t include additional funding for screening to help schools reopen. 
+{}
+{.video}
+videolink: https://player.vimeo.com/video/526252553
+{}
+{.question}
+img: https://ps-apps-assets.s3.amazonaws.com/screen-test-2021/tylisa-gifs/tylisa-4.gif
+alt: gif of tylisa c. johnson
+text: <b>QUESTION:</b> The latest COVID relief bill is planning to direct billions to educational institutions. I'm wondering how that funding that's being provided measures up with what districts in Pennsylvania will need to recover. Is the federal aid going to cut it? 
+{}
+{.video}
+videolink: https://player.vimeo.com/video/526254434
+{}
+<hr>
+<p id="question8">
 
-[VIDEO CLIP]
+<h3>Major impacts of the shift to virtual learning</h3>
 
-**You're not new to the Education Department. You've been there, but you're still relatively new to your position. So I'm wondering what you hope to accomplish in your two years and how your priorities and the department's priorities align with the Biden administration, or do they?**
+{.question}
+img: https://ps-apps-assets.s3.amazonaws.com/screen-test-2021/tylisa-gifs/tylisa5.gif
+alt: gif of tylisa c. johnson
+text: <b>QUESTION:</b> What have been some of the major impacts of the shift to virtual learning on the school community and school districts?
+{}
+{.video}
+videolink: https://player.vimeo.com/video/526258467
+{}
+<hr>
+<p id="question9">
 
-[VIDEO CLIP]
+<h3>How has the pandemic shifted the goals</h3>
 
+{.question}
+img: https://ps-apps-assets.s3.amazonaws.com/screen-test-2021/tylisa-gifs/tylisa1.gif
+alt: gif of tylisa c. johnson
+text: <b>QUESTION:</b> How has the pandemic shifted the goals and the aims of the department in the last year? Were there things that the department was in the middle of that kind of came to a screeching halt? 
+{}
+{.video}
+videolink: https://player.vimeo.com/video/526267019
+{}
+<hr>
+<p id="question10">
 
+<h3>How this upheaval may change public education long term</h3>
 
+{.question}
+img: https://ps-apps-assets.s3.amazonaws.com/screen-test-2021/tylisa-gifs/tylisa1.gif
+alt: gif of tylisa c. johnson
+text: <b>QUESTION:</b> Many public school advocates and people in the educational community have pegged this point in time as an opportunity to rethink how public education is provided so that, in a lot of ways, it can be more equitable. You said that you view this as a moment that could potentially change the way it's delivered. Can you talk about how this moment could potentially shift the way public education is provided, more long term?
+{}
+{.video}
+videolink: https://player.vimeo.com/video/526269099
+{}
+<hr>
+<p id="question11">
 
+<h3>Teacher diversity as a strategy to mend learning loss</h3>
+
+{.question}
+img: https://ps-apps-assets.s3.amazonaws.com/screen-test-2021/tylisa-gifs/tylisa-4.gif
+alt: gif of tylisa c. johnson
+text: <b>QUESTION:</b> You made several points, but the one thread I’d like to follow was when you mentioned how to prepare educators in the classroom. In the past, you've led department efforts to improve diversity in the workforce of state educators. And for context, in Pittsburgh and across Allegheny County, there's a significant lack of teachers of color, especially and in particular Black teachers when compared to student demographics. I'm curious about your thoughts as we get new, preliminary data about student performance in this virtual learning environment. How do the efforts for a more diverse and inclusive teacher workforce and more relevant approaches to teaching fit into this moment now that we're in a pandemic? 
+additionaltext: Teacher demographics in Allegheny County, while becoming more diverse, <a href="https://www.researchforaction.org/allegheny-county-teachers-of-color/" target="_blank">still don’t match student demographics</a>. Students of color make up <a href="https://www.researchforaction.org/allegheny-county-teachers-of-color/" target="_blank">35% of students enrolled</a> in county public schools, but teachers of color make up only <a href="https://www.researchforaction.org/allegheny-county-teachers-of-color/" target="_blank">4.5% of the workforce</a>. The county in 2019-20 employed a lower percentage of teachers of colors than the state average; more than half of the county’s teachers of color are employed by Pittsburgh Public Schools. 
+{}
+{.video}
+videolink: https://player.vimeo.com/video/526273369
+{}
+<hr>
+<p id="question12">
+
+<h3>Silver linings from the first year of COVID learning</h3>
+
+{.question}
+img: https://ps-apps-assets.s3.amazonaws.com/screen-test-2021/tylisa-gifs/tylisa5.gif
+alt: gif of tylisa c. johnson
+text: <b>QUESTION:</b> What have been some of the silver linings of this year when you reflect back on the year?  
+{}
+{.video}
+videolink: https://player.vimeo.com/video/526276032
+{}
 []

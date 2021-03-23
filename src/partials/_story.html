@@ -19,7 +19,19 @@
 
     <!-- Inline aside -->
     <% }else if(section.type == "inline-aside"){ %>
-      <a target="_blank" href="https://apps.publicsource.org/screen-test/"><img class="img-aside" alt="<%= section.value.alt %>" src="<%= section.value.img %>" /></a>
+      <img class="img-aside" alt="<%= section.value.alt %>" src="<%= section.value.img %>" />
+
+    <!-- Question -->
+    <% }else if(section.type == "question"){ %>
+      <div class="container-question">
+        <div class="item-a">
+          <img class="question-image" alt="<%= section.value.alt %>" src="<%= section.value.img %>" />
+        </div>
+        <div class="item-b">
+          <p><%= section.value.text %></p>
+          <p><em><%= section.value.additionaltext %></em></p>
+        </div>
+      </div>
 
     <!-- Video -->
     <% }else if(section.type == "video"){ %>
@@ -35,7 +47,7 @@
 
       <div class="inline-img">
       <img alt="<%= section.value.alt %>" src="<%= section.value.img %>" />
-      <div class="caption">
+      <div class="caption-inline-img">
         <p><%= section.value.caption %></p>
       </div>
       </div>
