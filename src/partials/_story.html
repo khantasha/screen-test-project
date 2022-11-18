@@ -83,26 +83,31 @@
       <section id='scrolly'>
 
         <figure>
-          <img class="fadeIn" id='img1' src="<%= section.value.img1 %>" alt="<%= section.value.alt1 %>" class='is-visible'>
+          <img class="fadeIn desktop-show" id='img1' src="<%= section.value.img1 %>" alt="<%= section.value.alt1 %>" class='is-visible'>
           <img id='img2' src="<%= section.value.img2 %>" alt="<%= section.value.alt2 %>">
-          <!-- <img id='img3' src="<%= section.value.img3 %>" alt="<%= section.value.alt3 %>"> -->
-          <!-- <img id='img4' src="<%= section.value.img4 %>" alt="<%= section.value.alt4 %>">
-          <img id='img5' src="<%= section.value.img5 %>" alt="<%= section.value.alt5 %>"> -->
+          <img id='img3' src="<%= section.value.img3 %>" alt="<%= section.value.alt3 %>">
+          <img id='img4' src="<%= section.value.img4 %>" alt="<%= section.value.alt4 %>">
+          <img id='img5' src="<%= section.value.img5 %>" alt="<%= section.value.alt5 %>">
       	</figure>
 
+
       	<article>
-          <div class='step' data-step='1'>
-            <p><%= section.value.text1 %></p>
+          <div class="step-container1">
+            <div class='step' data-step='1'>
+              <h1><span>THE</span><span class="kilimanjaro">RED</span><span class="zone">ZONE</span></h1>
+            </div>
           </div>
-          <div class='step' data-step='2'>
-            <p><%= section.value.text2 %></p>
+          <div class="step-container">
+            <div class='step' data-step='2'>
+              <p><%= section.value.text1 %></p>
+            </div>
           </div>
-          <div class='step' data-step='3'>
-            <h1 class="type-it">Screen test</h1>
-            <p>After a year of COVID school, students and districts reckon with ongoing struggles and lessons learned — and reach for hope.</p>
-            <p class="index-date">March 15, 2021</p>
+          <div class="step-container">
+            <div class='step' data-step='3'>
+              <p><%= section.value.text2 %></p>
+            </div>
           </div>
-      	</article>
+        </article>
 
       </section>
 

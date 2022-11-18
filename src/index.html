@@ -4,15 +4,17 @@
 
     <%= t.include("partials/_nav.html") %>
 
-    <%= t.include("partials/_story.html", {'story': archieml.ScreenTestTemplate}) %>
+    <%= t.include("partials/_story.html", {'story': archieml.RedZone1}) %>
 
+    <div class="gradient">
     <%= t.include("partials/_grid.html") %>
+    </div>
 
-    <div style="padding-bottom: 2em;"></div>
 
   <!-- Footer -->
   <%= t.include("partials/_footer.html") %>
 
   <script src="app.js" async></script>
+  <script id="parsely-cfg" src="//cdn.parsely.com/keys/publicsource.org/p.js"></script>
   </body>
 </html>

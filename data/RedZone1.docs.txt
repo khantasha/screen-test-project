@@ -1,0 +1,15 @@
+[+sections]
+{.scrollama1}
+img1: https://www.publicsource.org/wp-content/uploads/2022/09/red-zone-newlead-v4-2.png
+img2: https://www.publicsource.org/wp-content/uploads/2022/09/red-zone-scroll2-v2-2.png
+img3: https://www.publicsource.org/wp-content/uploads/2022/09/redzone-3.png
+img4:
+alt1: 
+alt2:
+alt3:
+text1: It's a time when more than half of sexual assaults among college students happen. We're in The Red Zone right now through Thanksgiving break.
+text2: Female, LGBTQ and BIPOC students — especially those new to campus — face heightened risk of sexual violence or harassment. Most cases go unreported. Those in need often lack clear information on support and enforcement.<br><br>What's being done to protect those at risk in the Pittsburgh area?
+text3: 
+text4: 
+{}
+[]
